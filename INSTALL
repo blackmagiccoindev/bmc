@@ -1,0 +1,9 @@
+Building BlackMagicCoin
+
+See doc/readme-qt.rst for instructions on building BlackMagicCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BlackMagicCoin.
+
+See doc/build-*.txt for instructions on building blackmagiccoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of BlackMagicCoin.
